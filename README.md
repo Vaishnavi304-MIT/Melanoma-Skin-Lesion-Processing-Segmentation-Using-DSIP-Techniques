@@ -171,8 +171,8 @@ melanoma-dsip/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/melanoma-dsip.git
-cd melanoma-dsip
+git clone https://github.com/Vaishnavi304-MIT/Melanoma-Skin-Lesion-Processing-Segmentation-Using-DSIP-Techniques.git
+cd Melanoma-Skin-Lesion-Processing-Segmentation-Using-DSIP-Techniques
 
 # Install dependencies
 pip install -r requirements.txt
