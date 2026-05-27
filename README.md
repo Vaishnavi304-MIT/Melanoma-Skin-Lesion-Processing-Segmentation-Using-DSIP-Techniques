@@ -51,7 +51,8 @@ Melanoma is the most dangerous form of skin cancer, responsible for the majority
 ---
 
 ## 12-Stage Processing Pipeline
-<img width="1360" height="2120" alt="skin_lesion_pipeline" src="https://github.com/user-attachments/assets/2f742712-5e7f-4f76-8158-a924b52e69fe" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/217130fb-940c-4201-abcf-7011a3f2cdf1" />
+
 
 
 | Stage | Step | Description |
