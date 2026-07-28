@@ -153,34 +153,6 @@ If I(x,y) ≥ T  →  Skin (0)
 
 ---
 
-## Project Structure
-
-```
-melanoma-dsip/
-├── app.py                  # Streamlit application
-├── pipeline.py             # 12-stage image processing pipeline
-├── utils.py                # Helper functions
-├── requirements.txt        # Python dependencies
-├── sample_images/          # Test dermoscopic images
-└── README.md
-```
-
----
-
-## How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/Vaishnavi304-MIT/Melanoma-Skin-Lesion-Processing-Segmentation-Using-DSIP-Techniques.git
-cd Melanoma-Skin-Lesion-Processing-Segmentation-Using-DSIP-Techniques
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
-```
-
 ---
 
 ## Requirements
